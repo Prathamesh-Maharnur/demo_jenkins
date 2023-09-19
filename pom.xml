@@ -7,7 +7,8 @@
     <artifactId>shopping-cart</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-
+    <finalName>prathamesh</finalName>
+    
     <name>shopping-cart</name>
     <description>Demo project for Spring Boot Shopping Cart</description>
 
